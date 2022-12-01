@@ -1,8 +1,10 @@
 import React from 'react'
-
+import '../Rightbar/right.css'
 function Rightbar() {
   return (
-    <div className='h'>Rightbar</div>
+    <div className='right'>
+      levelofcoding
+    </div>
   )
 }
 

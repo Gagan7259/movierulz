@@ -61,7 +61,7 @@ function Leftbar() {
         <img className='imagec' src={`${challenge}`} alt="" />
         <p className='hero'>Ntr monster</p>
         <p className='time'>5/6h viewing Time</p>
-        <button className='btn'>Challenge</button>
+        <button className='btn1s'>Challenge</button>
       </div>
     </div>
   )
